@@ -5,7 +5,6 @@ Before running the script, we will need to ensure we have the desire module and 
 <ul>
   <li> $ pip install segno</li>
   <li>$ pip install qrcode</li>
-  <li>$ Third item</li>
 </ul> 
 For conda based do:   
 <ul>
